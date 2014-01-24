@@ -1,0 +1,9 @@
+Building Marxcoin
+
+See doc/readme-qt.rst for instructions on building Marxcoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Marxcoin.
+
+See doc/build-*.txt for instructions on building marxcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Marxcoin.
