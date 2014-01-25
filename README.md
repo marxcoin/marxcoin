@@ -6,7 +6,7 @@ Crypto-proletarians of the world, unite!
 
 What is Marxcoin?
 
-Marxcoin is a scrypt-based cryptocurency.
+Marxcoin is a scrypt-based cryptocurrency.
 
 
 License
